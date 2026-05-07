@@ -1,0 +1,13 @@
+# データ・モデルは上げない
+data/
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+research_env/
+
+# その他
+*.tmp
+*.pem
